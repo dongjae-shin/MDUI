@@ -1,0 +1,3 @@
+coordinates.txt
+C:\Users\SDJ\Documents\Visual Studio 2013\Projects\md_my_simulation\md_my_simulation\coordinates.view
+C:\fortran_\mc_flex_12_(3)\view.view

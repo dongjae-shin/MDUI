@@ -1,0 +1,6 @@
+pathCondition = data_folder\\2015-11-28-14.38.00\\input_data_condition.txt
+pathMethod = data_folder\\2015-11-28-14.38.00\\input_data_method.txt
+pathMonitoring = data_folder\\2015-11-28-14.38.00\\input_data_monitoring.txt
+pathOutput = data_folder\\2015-11-28-14.38.00\\output_data.txt
+pathVACF = data_folder\\2015-11-28-14.38.00\\VACF.txt
+pathViewFile = coordinates.txt
