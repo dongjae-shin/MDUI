@@ -1,13 +1,21 @@
 # MDUI
-From-scratch molecular dynamics (MD) code (C language) and graphic user interface (GUI) (Java) for study. Only binary files are included here.
+MDUI (**M**olecular **D**ynamics with graphic **U**ser **I**nterface) is a from-scratch molecular dynamics (MD) program with graphic user interface (GUI). The MD executable, and graphic user interface (GUI) code and executable for the MD are included in this repository. These code and executables were made for the purpose of study when I was an undergraduate student. 
 
-- `MDUI.exe` (Java), `md_my_simulation_autocorr.exe` (C): Made with C and Java by Dongjae Shin, Department of Chemical Engineering, University of Seoul  
+<p align="center"> <img src="imgs/flowchart.png" width="60%"></p>
+
+## Key Executables
+
+- `MDUI.exe`: This runs the GUI for C-based MD code made on my own. The Java source codes for the GUI are included in `source_codes`.
   
   <p align="center"> <img src="imgs/MDUI.png" width="60%"></p>
   
-- `MoleculeViewer.exe` (C++): Made with C++ by Sangwon Lee, Department of Chemical Engineering, University of Seoul  
+
+- `md_my_simulation_autocorr.exe` (C): This is a LJ (Lennard-Jones) potential-based MD calculator which was written in C.
+
+- `MoleculeViewer.exe` (C++): This is a molecular visualizer made by Dr. Sangwon Lee at LG Chem when he was in a master's course. It was written in C++. 
 
   <p align="center"> <img src="imgs/MolecularViewer.png" width="60%"></p>
 
-# Poster for MDUI
+## Poster for MDUI
+
 <p align="center"> <img src="imgs/poster.png" width="60%"></p>
