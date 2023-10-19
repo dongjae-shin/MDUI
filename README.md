@@ -1,10 +1,10 @@
 # MDUI
-MDUI (**M**olecular **D**ynamics with graphic **U**ser **I**nterface) is a from-scratch molecular dynamics (MD) program with graphic user interface (GUI). The MD executable, and graphic user interface (GUI) code and executable for the MD are included in this repository. These code and executables were made for the purpose of study when I was an undergraduate student. 
+MDUI (**M**olecular **D**ynamics with graphic **U**ser **I**nterface) is a from-scratch molecular dynamics (MD) program with graphic user interface (GUI). The MD executable, and graphic user interface (GUI) code and executable for the MD are included in this repository. These code and executables were made for the purpose of study when I was an undergraduate student. [See the demonstration here.](MDUI_demonstration.avi)
 
 <p align="center"> <img src="imgs/flowchart.png" width="60%"></p>
 
 ## Key Executables
-
+[link to executables](executables/)
 - `MDUI.exe`: This runs the GUI for C-based MD code made on my own. The Java source codes for the GUI are included in `source_codes`.
   
   <p align="center"> <img src="imgs/MDUI.png" width="60%"></p>
